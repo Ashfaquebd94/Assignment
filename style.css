@@ -1,3 +1,8 @@
-h1{
-    color: blue;
+body{
+    font-family: 'Nanum Gothic', sans-serif;
+    font-family: 'Oswald', sans-serif;
+}
+.section-one{
+    background-image: url(images/donation0.jpg);
+    background-size: auto;
 }
