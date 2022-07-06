@@ -8,8 +8,7 @@ body{
     text-align: center;
     font-size: 40px;
     padding-left: 300px;
-    padding-right: 300px;
-  
+    padding-right: 300px;  
 }
 .s-one-p{
     color: rgb(243, 8, 8);
@@ -24,7 +23,7 @@ body{
     background-repeat:no-repeat;
     padding: 50px 100px 200px;          
 }
-.div-section-one-three{
+.div-anchor{
     text-align: center;
 }
 .anchor{    
@@ -33,4 +32,41 @@ body{
     background-color:brown;
     padding: 9px 20px 9px; 
     border-radius: 9px;           
+}
+.section-two{
+    padding: 50px 100px 200px;    
+    text-align: center;
+}
+.section-two h1{
+    font-size: 70px;
+}
+.s-two-p{
+    font-size: 29px;
+}
+.div-section-two-two{
+    display: flex;
+    font-size: 40px;
+}
+.div-section-two-two p{    
+    width: 50%;
+    text-align: center;            
+}
+.donate-taka-same-all{
+    box-shadow: 10px 3px 8px black;
+    border: 1px solid black;
+    border-radius: 7px;
+    margin-left: 30px;
+    margin-right: 30px;
+ }
+.donate-taka-different{
+    box-shadow: 10px 3px 8px rgb(228, 116, 116);
+    border: 3px solid rgb(228, 116, 116);
+    border-radius: 7px;
+    margin-left: 30px;
+    margin-right: 30px;
+    background-color: rgb(235, 222, 222);
+    color: rgb(238, 140, 107);
+}
+.div-section-two-three h3{
+    margin-bottom: 0%;       
 }
